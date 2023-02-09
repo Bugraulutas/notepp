@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fab_main_settings_signout_item"
+        android:title="Hesaptan Çıkış Yap" />
+    <item
+        android:id="@+id/fab_maşn_settings_deleteaccount_item"
+        android:title="Hesabı Sil" />
+</menu>

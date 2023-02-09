@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "490305265890",
+    "firebase_url": "https://noteapplication-113b6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "noteapplication-113b6",
+    "storage_bucket": "noteapplication-113b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490305265890:android:5aad7f8ceebc808987bebb",
+        "android_client_info": {
+          "package_name": "com.bgr2.noteapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490305265890-l52ernn6r9gontfpoiv2asf8ir6v515p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtGu6mLcNelBYDUYOanK9QTOe0C7xNS2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490305265890-l52ernn6r9gontfpoiv2asf8ir6v515p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490305265890:android:3dade9206328a10e87bebb",
+        "android_client_info": {
+          "package_name": "com.bgr2.notepp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490305265890-l52ernn6r9gontfpoiv2asf8ir6v515p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtGu6mLcNelBYDUYOanK9QTOe0C7xNS2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490305265890-l52ernn6r9gontfpoiv2asf8ir6v515p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
